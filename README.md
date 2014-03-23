@@ -4,7 +4,7 @@
 
 > Copying and distribution of the file(s), with or without modification, is permitted, under the following conditions:  
 > 1) You do not contact the author about the file or any problems you are having with the file, and;  
-> 2) You may choose to the author, but you may not do so in any way that suggests that the author endorse your use of the work.
+> 2) You may choose to credit the author, but you may not do so in any way that suggests that the author endorse your use of the work.
 
 ## Attribution
 
