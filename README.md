@@ -1,15 +1,17 @@
-# The Don't Ask Me About It License
+# The I Wash My Hands of This License
 
 ## Full License Text
 
-> Copying and distribution of this file, with or without modification, are permitted in any medium provided you do not contact the author about the file or any problems you are having with the file.
+> Copying and distribution of the file(s), with or without modification, is permitted, under the following conditions:  
+> 1) You do not contact the author about the file or any problems you are having with the file, and;  
+> 2) You may choose to the author, but you may not do so in any way that suggests that the author endorse your use of the work.
 
-## How To Apply This To Your Stuff
+## Attribution
 
-Add a copyright notice to whatever you want to license and then copy the license text verbatim.
+Based on the [the Don't Ask Me About It License by nslater](https://github.com/nslater/DAMAIL).
 
 ## License
 
 Licensed under itself. Don't bother emailing me about it.
 
-You can [follow me on Twitter](https://twitter.com/intent/user?screen_name=nslater) though!
+You can [follow me on Twitter](https://twitter.com/joeyfjj) though!
